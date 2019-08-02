@@ -1,0 +1,8 @@
+This program was used to run different instances of vampire script N times
+to carry out ensemble avarage at finite temperature calculations. It forms 
+N different directory with vampire input, material and ucf files and run them
+in parallel in prescribed number of batches. More parameters can be varied 
+by using the replace parameters in the program for other uses.
+
+Used to calculate the magnon current correlators by using ensemble averaging 
+instead of time averaging.
